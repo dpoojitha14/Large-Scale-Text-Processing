@@ -1,7 +1,8 @@
 # Large-Scale-Text-Processing
 CSE 587 - Data Intensive Computing (Spring 2017)
 
-Implemented word count on tweets.
+Implemented word cloud visualization.
+
 Implemented word co-occurrence on the collected tweets.
 
 Activity 1: Word co-occurrence on Classical Latin Text
